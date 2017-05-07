@@ -6,7 +6,7 @@
 Directories
 ----------
 
-[All Registered and Official Affiliations](https://github.com/EXYZED/AustralianPublicRepository/blob/Assets/AllGroups.md)
+[All registered and official affiliations](https://github.com/EXYZED/AustralianPublicRepository/blob/Assets/AllGroups.md)
 
-[Registered Assets](https://github.com/EXYZED/AustralianPublicRepository/blob/Assets/RegisteredForms.md)
+[Registered assets](https://github.com/EXYZED/AustralianPublicRepository/blob/Assets/RegisteredForms.md)
 
