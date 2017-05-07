@@ -7,7 +7,6 @@
 
 Links
 ---------------------
-[ROBLOX Group] (https://www.roblox.com/My/Groups.aspx?gid=3158181)
-
+[ROBLOX Group](https://www.roblox.com/My/Groups.aspx?gid=3158181)
 [Registered Assets](https://github.com/EXYZED/AustralianPublicRepository/blob/Assets/RegisteredForms.md)
 
