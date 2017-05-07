@@ -10,31 +10,26 @@ Links
 [ROBLOX Group](https://www.roblox.com/My/Groups.aspx?gid=3158181)
 
 **Australian Department of Defence**
-
-[https://www.roblox.com/My/Groups.aspx?gid=3223022](Australian Defence Force)
+[Australian Defence Force](https://www.roblox.com/My/Groups.aspx?gid=3223022)
 
 **Australian Department of Employment**
+[Australian Department of Employment](https://www.roblox.com/Groups/group.aspx?gid=3223198)
 
-[https://www.roblox.com/Groups/group.aspx?gid=3223198](Australian Department of Employment)
+[Australian Federal Police](https://www.roblox.com/My/Groups.aspx?gid=3158310)
 
-[https://www.roblox.com/My/Groups.aspx?gid=3158310](Australian Federal Police)
-
-[https://www.roblox.com/My/Groups.aspx?gid=3189276](Australian Secret Intelligence Service)
+[Australian Secret Intelligence Service](https://www.roblox.com/My/Groups.aspx?gid=3189276)
 
 **Australian Federal Police**
+[Federal Police | Specialist Response Group](https://www.roblox.com/My/Groups.aspx?gid=3186428)
 
-[https://www.roblox.com/My/Groups.aspx?gid=3186428](Federal Police | Specialist Response Group)
-
-[https://www.roblox.com/Groups/group.aspx?gid=3184620](Federal Police | Road Policing Department)
+[Federal Police | Road Policing Department](https://www.roblox.com/Groups/group.aspx?gid=3184620)
 
 **Australian Defence Force**
+[Australian Defence Force | Australian Army](https://www.roblox.com/Groups/group.aspx?gid=3223119)
 
-[https://www.roblox.com/Groups/group.aspx?gid=3223119](ADF | Australian Army)
+[Australian Defence Force | Royal Navy](https://www.roblox.com/Groups/group.aspx?gid=3229845)
 
-[https://www.roblox.com/Groups/group.aspx?gid=3229845](ADF | Australian Navy)
-
-[https://www.roblox.com/Groups/group.aspx?gid=3229853](ADF | Australian Air Force)``
-
+[Australian Defence Force | Royal Australian Air Force](https://www.roblox.com/Groups/group.aspx?gid=3229853)
 
 [Registered Assets](https://github.com/EXYZED/AustralianPublicRepository/blob/Assets/RegisteredForms.md)
 
