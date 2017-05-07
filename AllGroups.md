@@ -29,3 +29,7 @@
 [Australian Defence Force | Royal Navy](https://www.roblox.com/Groups/group.aspx?gid=3229845)
 
 [Australian Defence Force | Royal Australian Air Force](https://www.roblox.com/Groups/group.aspx?gid=3229853)
+
+Alliances
+---------------------
+[Australia & São Miguel Alliance Terms](https://docs.google.com/document/d/1C44GCZu7FP5xFG4RY9Nbhc8CWNfYye1BMbQ88_1O4Rs/edit#heading=h.9utpiis8nul6)
