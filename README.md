@@ -50,6 +50,6 @@ Directories
 
 
 
-
+  
 
 Assets and content created in this repository or directly related to the repository has no real affiliations with events which may occur in the real world. But is created to serve a purpose of community entertainment and roleplay.
