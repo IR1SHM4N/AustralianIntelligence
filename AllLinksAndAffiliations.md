@@ -1,10 +1,11 @@
 [return](https://github.com/EXYZED/AustralianPublicRepository/blob/PublicInformation/README.md)
 
+All information here is declared official.
+#
 
-|     Agency    														|                              Link                             	| Status 	|
+|     														|         Link/Info                           	| Status 	|
 |:---------------------------------------		|:-------------------------------------------------------------:	|:------:	|
-| **AUSTRALIA** 														|                                                               	|        	|
-| _Australia_ 															| [**●**](https://www.roblox.com/My/Groups.aspx?gid=3158181) 	| Online 	|
+| **AUSTRALIA**  															| [**●**](https://www.roblox.com/My/Groups.aspx?gid=3158181) 	| Online 	|
 | **AUSTRALIAN DEPARTMENT OF DEFENCE** 			|                                                               	|        	|
 | _Australian Defence Force_ 								| [**●**](https://www.roblox.com/My/Groups.aspx?gid=3223022) 	| Online 	|
 | **AUSTRALIAN DEPARTMENT OF EMPLOYMENT**		| [**●**](https://www.roblox.com/My/Groups.aspx?gid=3223198)   | Online	|
@@ -19,21 +20,13 @@
 |_Australian Defence Force : Royal Navy_|[**●**](https://www.roblox.com/Groups/group.aspx?gid=3229845)|Online
 |_Australian Defence Force : Royal Australian Air Force_|[**●**](https://www.roblox.com/Groups/group.aspx?gid=3229853)|Online
 |||
-|     Documentation    	  								|                              Link                             	| Status 	|
+|||
 | **Alliances** 													|                                                               	|        	|
 | _Australia & São Miguel Alliance Terms_ |[**●**](https://docs.google.com/document/d/1C44GCZu7FP5xFG4RY9Nbhc8CWNfYye1BMbQ88_1O4Rs/edit#heading=h.9utpiis8nul6)| Official and Declared 	|
 |||
-| Department              | Account / Mail                | Status          |
 | **Australian Bureau of Administration** | Australian.BureauOfManagement@gmail.com      | Online |
 | Specialist Response Group     | Australian.SRGroup@gmail.com  | Offline |
 
-
-
-
-Mail Accounts
---------------
-
-### These accounts are officially registered and affiliated with Australia.
 
 
 
