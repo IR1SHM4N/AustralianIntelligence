@@ -1,24 +1,26 @@
 [return](https://github.com/EXYZED/AustralianPublicRepository/blob/PublicInformation/README.md)
 
-### AUSTRALIA
-|Agency|Link|Status|
-|-|-|-|
-|**Australia**|[**Link**](https://www.roblox.com/My/Groups.aspx?gid=3158181)|Online
 
-### AUSTRALIAN DEPARTMENT OF DEFENCE
-|Agency|Link|Status|
-|-|-|-|
-|**Australian Defence Force**|[**Link**](https://www.roblox.com/My/Groups.aspx?gid=3223022)|Online
+|     Agency    				|                              Link                             	| Status 	|
+|:---------------------------------------	|:-------------------------------------------------------------:	|:------:	|
+| **AUSTRALIAN DEPARTMENT OF DEFENCE** 		|                                                               	|        	|
+| _Australia_ 					| [**Link**](https://www.roblox.com/My/Groups.aspx?gid=3158181) 	| Online 	|
+| **AUSTRALIA** 				|                                                               	|        	|
+| _Australian Defence Force_ 			| [**Link**](https://www.roblox.com/My/Groups.aspx?gid=3223022) 	| Online 	|
+| **AUSTRALIAN DEPARTMENT OF EMPLOYMENT** 				|                                                               	|        	|
+| _Australian Federal Police_ 			| [**Link**](https://www.roblox.com/My/Groups.aspx?gid=3158310) 	| Online 	|
 
-### AUSTRALIAN DEPARTMENT OF EMPLOYMENT
+
+
+### 
 |Agency|Link|Status|
-|-|-|-|
+|:-|:-:|-:|
 |**Australian Department of Employment**|[**Link**](https://www.roblox.com/Groups/group.aspx?gid=3223198)|Online
-|**Australian Federal Police**|[**Link**](https://www.roblox.com/My/Groups.aspx?gid=3158310)|Online
-
+|****|[**Link**]()|Online
+_+
 ### AUSTRALIAN DEPARTMENT OF FOREIGN AFFAIRS
 |Agency|Link|Status|
-|-|-|-|
+|:-|:-:|-:|
 |**Australian Secret Intelligence Service**|[**Link**](https://www.roblox.com/My/Groups.aspx?gid=3189276)|Online
 
 
