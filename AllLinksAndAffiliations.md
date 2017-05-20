@@ -1,6 +1,7 @@
 [return](https://github.com/EXYZED/AustralianPublicRepository/blob/PublicInformation/README.md)
 
-All information here is declared official.
+
+# All information here is declared official.
 #
 
 |     														|         Link/Info                           	| Status 	|
