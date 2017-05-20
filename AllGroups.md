@@ -1,8 +1,11 @@
 [return](https://github.com/EXYZED/AustralianPublicRepository/blob/PublicInformation/README.md)
 
-# All groups associated with Australia (official)
+### AUSTRALIA
+|Department / Agency/ Affiliation|Link|Status|
+|-|-|-|
+|**Australia**|[**Link**](https://www.roblox.com/My/Groups.aspx?gid=3158181)|Online
 
-[**AUSTRALIA**](https://www.roblox.com/My/Groups.aspx?gid=3158181)
+
 
 **Australian Department of Defence**
 
@@ -33,6 +36,9 @@
 Alliances
 ---------------------
 
+[Australia & São Miguel Alliance Terms](https://docs.google.com/document/d/1C44GCZu7FP5xFG4RY9Nbhc8CWNfYye1BMbQ88_1O4Rs/edit#heading=h.9utpiis8nul6)
+
+
 Mail Accounts
 --------------
 
@@ -47,4 +53,3 @@ Mail Accounts
 
 
 
-[Australia & São Miguel Alliance Terms](https://docs.google.com/document/d/1C44GCZu7FP5xFG4RY9Nbhc8CWNfYye1BMbQ88_1O4Rs/edit#heading=h.9utpiis8nul6)
