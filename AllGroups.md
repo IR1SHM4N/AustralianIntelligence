@@ -18,11 +18,11 @@
 |_Australian Defence Force : Australian Army_|[**●**](https://www.roblox.com/Groups/group.aspx?gid=3223119)|Online
 |_Australian Defence Force : Royal Navy_|[**●**](https://www.roblox.com/Groups/group.aspx?gid=3229845)|Online
 |_Australian Defence Force : Royal Australian Air Force_|[**●**](https://www.roblox.com/Groups/group.aspx?gid=3229853)|Online
-|---------|---------|---------|
+|||
 |     Documentation    	  								|                              Link                             	| Status 	|
 | **Alliances** 													|                                                               	|        	|
 | _Australia & São Miguel Alliance Terms_ |[**●**](https://docs.google.com/document/d/1C44GCZu7FP5xFG4RY9Nbhc8CWNfYye1BMbQ88_1O4Rs/edit#heading=h.9utpiis8nul6)| Official and Declared 	|
-|---------|---------|---------|
+|||
 | Department              | Account / Mail                | Status          |
 | **Australian Bureau of Administration** | Australian.BureauOfManagement@gmail.com      | Online |
 | Specialist Response Group     | Australian.SRGroup@gmail.com  | Offline |
