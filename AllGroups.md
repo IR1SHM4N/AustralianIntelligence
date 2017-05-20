@@ -5,11 +5,11 @@
 |-|-|-|
 |**Australia**|[**Link**](https://www.roblox.com/My/Groups.aspx?gid=3158181)|Online
 
+### AUSTRALIAN DEPARTMENT OF DEFENCE
+|Department / Agency/ Affiliation|Link|Status|
+|-|-|-|
+|**Australian Defence Force**|[**Link**](https://www.roblox.com/My/Groups.aspx?gid=3223022)|Online
 
-
-**Australian Department of Defence**
-
-[Australian Defence Force](https://www.roblox.com/My/Groups.aspx?gid=3223022)
 
 **Australian Department of Employment**
 
