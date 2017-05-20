@@ -32,4 +32,19 @@
 
 Alliances
 ---------------------
+
+Mail Accounts
+--------------
+
+### These accounts are officially registered and affiliated with Australia.
+
+| Department              | Account / Mail                | Status          |
+| ------------------------------------- |:-----------------------------:| ---------------:|
+| **Australian Bureau of Administration** | Australian.BureauOfManagement@gmail.com      | Online |
+| Specialist Response Group     | Australian.SRGroup@gmail.com  | Offline |
+
+
+
+
+
 [Australia & São Miguel Alliance Terms](https://docs.google.com/document/d/1C44GCZu7FP5xFG4RY9Nbhc8CWNfYye1BMbQ88_1O4Rs/edit#heading=h.9utpiis8nul6)
