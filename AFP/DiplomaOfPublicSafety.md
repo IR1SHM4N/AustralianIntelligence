@@ -1,6 +1,6 @@
 # Applicants for the Diploma Of Public Safety (Policing force)
 
-All applicants must
+
 
 
 Read more about the AFP's core values
@@ -14,3 +14,5 @@ You must:
 * Contain no more than 4 Traffic offences
 * Provide **secondary** contact information (Duty, Promotions etc to update)
 * Prior to engagement, undergo a security clearance, a standard physical clearance/examination and undertake a test for illicit drugs in accordance with the AFP's Illicit Drug Free Work Force Policy.
+
+These apply to all applicants and no member is exempt from it.
