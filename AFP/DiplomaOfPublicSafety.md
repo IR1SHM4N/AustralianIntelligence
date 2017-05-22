@@ -16,3 +16,5 @@ You must:
 [**Read more about the AFP's core values**](https://github.com/EXYZED/AustralianPublicRepository/blob/Assets/AFP/AFP_CoreValues.md)
 
 These apply to all applicants and no member is exempt from it.
+
+**Applications are currently closed**
