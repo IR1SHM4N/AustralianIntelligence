@@ -15,4 +15,5 @@ You must:
 * Provide **secondary** contact information (Duty, Promotions etc to update)
 * Prior to engagement, undergo a security clearance, a standard physical clearance/examination and undertake a test for illicit drugs in accordance with the AFP's Illicit Drug Free Work Force Policy.
 
+
 These apply to all applicants and no member is exempt from it.
