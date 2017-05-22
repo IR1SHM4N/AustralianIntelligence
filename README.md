@@ -10,7 +10,7 @@
 Directories
 ----------
 
-[All registered and official affiliations](https://github.com/EXYZED/AustralianPublicRepository/blob/Assets/AllGroups.md)
+[All registered and official affiliations](https://github.com/EXYZED/AustralianPublicRepository/blob/Assets/AllLinksAndAffiliations.md)
 
 [Registered assets](https://github.com/EXYZED/AustralianPublicRepository/blob/Assets/RegisteredForms.md)
 
