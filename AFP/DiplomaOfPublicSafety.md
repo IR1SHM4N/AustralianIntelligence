@@ -2,7 +2,7 @@
 
 All applicants must
 
-··* Demonstrate a commitment to the AFP's core values of integrity, commitment, excellence, accountability, fairness and trust. Read more about the AFP's core values
+..* Demonstrate a commitment to the AFP's core values of integrity, commitment, excellence, accountability, fairness and trust. Read more about the AFP's core values
 
 be an Australian citizen
 be required to complete an employment character questionnaire
