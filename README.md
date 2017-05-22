@@ -1,5 +1,7 @@
 # Australian Official Information Repository
 
+Our country is a place that inspires and engages minds. We believe in democracy and the laws of the country, where every individual has a voice that is heard and respected, no matter what their faith or belief. The community values discussion, debate and learning from others. There is no place for extremism or radicalisation in our society.
+
 
 <img src="https://cloud.githubusercontent.com/assets/18582414/25780387/1d938412-331f-11e7-9c7f-10bb15e43446.jpg" width="1500">
 
