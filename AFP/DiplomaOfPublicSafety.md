@@ -1,7 +1,5 @@
+[_Return to Systems_](https://github.com/EXYZED/AustralianPublicRepository/projects/1)
 # Applicants for the Diploma Of Public Safety (Policing force)
-
-
-
 
 Read more about the AFP's core values
 
