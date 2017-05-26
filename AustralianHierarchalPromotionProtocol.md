@@ -14,7 +14,7 @@ The Australian Hierarchal Promotion Protocol was created to **ensure that all us
 - Citizen must have their account made in 2016.
 - Citizen must show distinguishability and the ambition to contribute in verbal form and effort.
 - Citizen must be reccomended by at least one other person to take up the role. 
-_ Citizen must show good moral character, allowing himself to be a role model/representative for the group.
+- Citizen must show good moral character, allowing himself to be a role model/representative for the group.
 
 
 _† Foreign Policies may override this and allow this to be ruled out. The occurance must be important_
