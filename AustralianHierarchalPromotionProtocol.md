@@ -16,3 +16,4 @@ The Australian Hierarchal Promotion Protocol was created to **ensure that all us
 - Citizen must be reccomended by at least one other person to take up the role. 
 
 
+_† Foreign Policies may override this and allow this to be ruled out. The occurance must be important_
