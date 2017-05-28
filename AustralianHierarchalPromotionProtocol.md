@@ -13,7 +13,7 @@ In order to do this, we do not allow free ranking to occur, all citizens earn th
 
 - Citizen must be an Australian Citizenship for at least 1 week †
 - Citizen must show that they are capable of holding responsibilities to the occuring rank that they want to be in
-- Citizen must have their account made in 2016.
+- Citizen must have their account made in 2016 or lower
 - Citizen must show distinguishability and the ambition to contribute in verbal form and effort.
 - Citizen must be reccomended by at least one other person to take up the role. 
 - Citizen must show good moral character, allowing himself to be a role model/representative for the group.
