@@ -2,6 +2,8 @@ Australia is always looking for people who strive to improve and serve the commu
 
 The Australian Hierarchal Promotion Protocol was created to **ensure that all users have the equal chance of achieving a specialised role in Australia. We believe in equality between the citizens in terms of opportunity.** It's a matter of proficiency which allows this to happen.
 
+In order to do this, we do not allow free ranking to occur, all citizens earn their rank accordingly.
+
 ###### Legally define a (Citizen) as a persons in the Australian Group as a Citizen. **NOT** a immigrant. With no criminal convictions.
 
 
