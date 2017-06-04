@@ -13,10 +13,11 @@ In order to transfer your citizenship to another account, you will need meet the
 
 #### Requests around 1 week to process through.
 
-[The Governor General's Profile](https://www.roblox.com/users/51032970/profile)
+Send appeals to the Bureau of Internal Appeals
+[Dept. of Immigration & Bdr. Protection](https://www.roblox.com/My/Groups.aspx?gid=3223224)
 
 
 
 
 
-###### † - Reccomended Proof : A message from the previous account towards EXYZED.
+###### † - Reccomended Proof : A message from the previous account towards Bureau of Internal Appeals.
