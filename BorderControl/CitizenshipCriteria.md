@@ -5,7 +5,7 @@
 
 <img src="https://cloud.githubusercontent.com/assets/18582414/25780387/1d938412-331f-11e7-9c7f-10bb15e43446.jpg" width="1500">
 
-In order to transfer your citizenship to another account, you will need meet these criteria:
+In order to gain a citizenship in Australia, You must meet the following requirements:
 
 * Your account is not a alternate account.
 * Your new account is at least 10 days old.
