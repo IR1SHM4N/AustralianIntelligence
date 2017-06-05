@@ -11,6 +11,7 @@ In order to transfer your citizenship to another account, you will need meet the
 * Your new account is at least 10 days old.
 * You have not committed any major crimes with your previous account.
 * Your previous account is not blacklisted from Australia.
+* The account is not affilated with blacklisted gangs
 
 #### Your previous account will be ranked to the immigration office, removing your citizenship. Once this process is complete it is reccomended you do not use your old account.
 
