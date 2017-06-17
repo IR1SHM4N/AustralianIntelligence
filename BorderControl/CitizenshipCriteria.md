@@ -5,6 +5,8 @@
 
 <img src="https://cloud.githubusercontent.com/assets/18582414/25780387/1d938412-331f-11e7-9c7f-10bb15e43446.jpg" width="1500">
 
+To start, Pend a request to [**AUSTRALIA**](https://www.roblox.com/My/Groups.aspx?gid=3158181)
+
 In order to gain a citizenship in Australia, You must meet the following requirements:
 
 * Your account is not a alternate account.
