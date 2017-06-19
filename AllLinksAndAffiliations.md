@@ -8,6 +8,8 @@
 |:---------------------------------------		|:-------------------------------------------------------------:	|:------:	|
 | _AUSTRALIA_ 															| [**●**](https://www.roblox.com/My/Groups.aspx?gid=3158181) 	| Online 	|
 |||
+| **Attorney-General's Department** 			| [**●**](https://www.roblox.com/My/Groups.aspx?gid=3260425)| Online	|
+|||
 | **AUSTRALIAN DEPARTMENT OF DEFENCE** 			| [**●**](https://www.roblox.com/My/Groups.aspx?gid=3223188)| Online	|
 | _Australian Defence Force_ 								| [**●**](https://www.roblox.com/My/Groups.aspx?gid=3223022) 	| Online 	|
 |||
