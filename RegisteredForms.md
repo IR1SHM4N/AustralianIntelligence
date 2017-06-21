@@ -7,7 +7,7 @@ Any other assets are fake and are trying to retrieve your personal information m
 * [CKT18903 _Governor General's ASIS Service Contract_](https://goo.gl/bpGMej)
 * OFD38291 _SRG Character Application_
 * [OFD00231 _Australian Navy Character Eligibility Check_](https://docs.google.com/forms/d/e/1FAIpQLSd26fCX96xIfJGQxn2MgX0JUejcUfZ9maf2ACpE6TSkUGa01w/viewform)
-* [CKT83261 _Department of Defence Senior Service Contact Regulatory_](https://goo.gl/s15fZW)
+* [CKT83261 _Department of Defence Senior Service Contract Regulatory_](https://goo.gl/s15fZW)
 * CKT83262 _Senior Service Contract Form_
 *
 
