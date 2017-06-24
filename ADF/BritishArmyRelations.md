@@ -28,10 +28,12 @@ Bases marked with **[T]** allow joint training to occur by agreement
 
 [British Army - Marshal Island **[T]** ](https://www.roblox.com/games/698677668/British-Army-Marshal-Island-Training-Base)
 
-[RAF Base Halton](https://www.roblox.com/games/871676716/Royal-Air-Force-Training-Base-Halton)
+> [RAF Base Halton](https://www.roblox.com/games/871676716/Royal-Air-Force-Training-Base-Halton)
 
 ## Approved areas of deployment for the BA
 
 [Blamey Barracks (Within BA team)](https://www.roblox.com/games/846150491/ADF-Blamey-Barracks)
 
 ###### Requests to add information / alter must be informed directly to the Bureau of Administration. (Australian.BureauOfManagement@gmail.com)
+
+RELATIONS WITH THE RAF CURRENTLY SUSPENDED.
