@@ -11,6 +11,4 @@ Adapted into the performance of roleplaying entertainment.
 ___
 
 ## Chapter I
-### Part V
-#### [§51. Legislative powers of the Parliament](https://github.com/EXYZED/AustralianPublicRepository/blob/Assets/AttorneyGenerals/%C2%A751.md)
-#### [§52. Exclusive powers of the Parliament](https://github.com/EXYZED/AustralianPublicRepository/blob/Assets/AttorneyGenerals/%C2%A752.md)
+### [Part V - Powers of the Parliament](https://docs.google.com/document/d/1bcGMqNnO0sUtL6X1ngVpOmKzyz6dsDxKlSAqE8NdQAw/edit?usp=sharing)
