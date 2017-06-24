@@ -5,9 +5,8 @@
 
 # The Australian Constitution
 Proclamation Declaring the Establishment of the Commonwealth
-Sections, Patent Relating to the Office of Governor‑General with the Excellency’s Approval
+Sections, Patent Relating to the Office of Excellency’s Governor‑General with the Adaptation into the performance of roleplaying entertainment.
 
-Adapted into the performance of roleplaying entertainment.
 ___
 
 ## Chapter I
