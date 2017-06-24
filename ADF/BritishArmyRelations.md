@@ -1,11 +1,11 @@
 
 ## Military Foreign Protection Policy
 
-The Foreign Protection Policy (MFPP) allows the fluidic integration of social interaction between the members  and Australian Defence Force (**ADF**)
+The Foreign Protection Policy (MFPP) allows the fluidic integration of social interaction between the members  and Australian Defence Force (**ADF**),
 
 Both member unions will not discriminate between each other, and will not use their hierarchal agenda to their advantage innapropriatally, it is morally expected that both unions will support each other regarding conflictual issues.
 
-Both member unions containing members of high hierarchy are expected and are responsible of ensuring that the members within their union **will in no circumstance** discriminate against the other group. **In any form regardless**
+Both member unions containing members of high hierarchy are expected and are responsible of ensuring that the members within their union **will in no circumstance** discriminate against the other group. **In any form regardless.**
 
 
 SIGNED, **Commander in Chief of The Australian Defence Force** EXYZED:
