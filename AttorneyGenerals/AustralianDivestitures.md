@@ -12,4 +12,4 @@ ___
 
 ## Chapter I
 ### Part V
-#### §51. Legislative powers of the Parliament
+#### [§51. Legislative powers of the Parliament](https://github.com/EXYZED/AustralianPublicRepository/blob/Assets/AttorneyGenerals/%C2%A751.md)
