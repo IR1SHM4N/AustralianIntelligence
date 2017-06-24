@@ -12,6 +12,7 @@ SIGNED, **Commander in Chief of The Australian Defence Force** EXYZED:
 
 ![](https://user-images.githubusercontent.com/18582414/27302136-b0185c10-552d-11e7-8a17-23d4708b36e2.png)
 
+Approved by **KING** WyvernNook.
 
 ***
 
