@@ -1,11 +1,12 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Coat_of_arms_of_the_Commonwealth_of_Australia.gif" width="200">
 
-
+***
 
 # The Australian Constitution
 Proclamation Declaring the Establishment of the Commonwealth
-Sections, Patent Relating to the Office of Excellency’s Governor‑General with the Adaptation into the performance of roleplaying entertainment.
+Sections, Patent Relating to the Office of Excellency’s Governor‑General with the **Adaptation into the performance of roleplaying entertainment.**
+
 
 ___
 
